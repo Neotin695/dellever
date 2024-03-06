@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1020716110002",
+    "firebase_url": "https://store-fd673-default-rtdb.firebaseio.com",
+    "project_id": "store-fd673",
+    "storage_bucket": "store-fd673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020716110002:android:ca3713c21d6d924d1e79ab",
+        "android_client_info": {
+          "package_name": "com.dellver.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXFOCfaY28-zPLEwBQLdUzUvIGnzH8uCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
