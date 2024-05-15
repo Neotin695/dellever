@@ -84,10 +84,6 @@ class _PickMapScreenState extends State<PickMapScreen> {
             : null,
 
         child: GetBuilder<LocationController>(builder: (locationController) {
-          /*print('--------------${'${locationController.pickPlaceMark.name ?? ''} '
-              '${locationController.pickPlaceMark.locality ?? ''} '
-              '${locationController.pickPlaceMark.postalCode ?? ''} ${locationController.pickPlaceMark.country ?? ''}'}');*/
-
           return ResponsiveHelper.isDesktop(context)
               ? Padding(
                   padding: const EdgeInsets.symmetric(
@@ -120,6 +116,7 @@ class _PickMapScreenState extends State<PickMapScreen> {
                             borderRadius:
                                 BorderRadius.circular(Dimensions.radiusDefault),
                             child: GoogleMap(
+                              
                               initialCameraPosition: CameraPosition(
                                 target: widget.fromAddAddress
                                     ? LatLng(

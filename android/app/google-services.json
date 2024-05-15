@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "1020716110002",
-    "firebase_url": "https://store-fd673-default-rtdb.firebaseio.com",
-    "project_id": "store-fd673",
-    "storage_bucket": "store-fd673.appspot.com"
+    "project_number": "591532309022",
+    "firebase_url": "https://nexus-graph-default-rtdb.firebaseio.com",
+    "project_id": "nexus-graph",
+    "storage_bucket": "nexus-graph.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1020716110002:android:ca3713c21d6d924d1e79ab",
+        "mobilesdk_app_id": "1:591532309022:android:b5965bbf38865a9bce8c0f",
         "android_client_info": {
           "package_name": "com.dellver.userapp"
         }
@@ -16,7 +16,45 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCXFOCfaY28-zPLEwBQLdUzUvIGnzH8uCI"
+          "current_key": "AIzaSyDaWW4s8czfvWWg4hYQ7NG2NvHmbglJrUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591532309022:android:847311204337be57ce8c0f",
+        "android_client_info": {
+          "package_name": "mehani.sim.nexus_graph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaWW4s8czfvWWg4hYQ7NG2NvHmbglJrUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591532309022:android:8671bf10237b8d89ce8c0f",
+        "android_client_info": {
+          "package_name": "mehani.sim.whatsapp_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaWW4s8czfvWWg4hYQ7NG2NvHmbglJrUM"
         }
       ],
       "services": {

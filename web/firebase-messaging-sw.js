@@ -2,14 +2,14 @@ importScripts("https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/8.10.1/firebase-messaging.js");
 
 firebase.initializeApp({
-  apiKey: "AIzaSyDFN-73p8zKVZbA0i5DtO215XzAb-xuGSE",
-  authDomain: "ammart-8885e.firebaseapp.com",
-  databaseURL: "https://ammart-8885e-default-rtdb.firebaseio.com",
-  projectId: "ammart-8885e",
-  storageBucket: "ammart-8885e.appspot.com",
-  messagingSenderId: "1000163153346",
-  appId: "1:1000163153346:web:4f702a4b5adbd5c906b25b",
-  measurementId: "G-L1GNL2YV61"
+    apiKey: 'AIzaSyCxXem2CqAL-HucEey7v9DcxH2l3cVofic',
+    appId: '1:591532309022:web:d9d606c5eb367491ce8c0f',
+    messagingSenderId: '591532309022',
+    projectId: 'nexus-graph',
+    authDomain: 'nexus-graph.firebaseapp.com',
+    databaseURL: 'https://nexus-graph-default-rtdb.firebaseio.com',
+    storageBucket: 'nexus-graph.appspot.com',
+    measurementId: 'G-546ZK50GVY',
 });
 
 const messaging = firebase.messaging();

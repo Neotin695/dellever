@@ -47,32 +47,33 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDIFY9esnsQ3Q7vqFL82iPLRGioJgT-Jyk',
-    appId: '1:1020716110002:web:1a873efdc0f737281e79ab',
-    messagingSenderId: '1020716110002',
-    projectId: 'store-fd673',
-    authDomain: 'store-fd673.firebaseapp.com',
-    databaseURL: 'https://store-fd673-default-rtdb.firebaseio.com',
-    storageBucket: 'store-fd673.appspot.com',
-    measurementId: 'G-3NFJ6ME35Y',
+    apiKey: 'AIzaSyCxXem2CqAL-HucEey7v9DcxH2l3cVofic',
+    appId: '1:591532309022:web:d9d606c5eb367491ce8c0f',
+    messagingSenderId: '591532309022',
+    projectId: 'nexus-graph',
+    authDomain: 'nexus-graph.firebaseapp.com',
+    databaseURL: 'https://nexus-graph-default-rtdb.firebaseio.com',
+    storageBucket: 'nexus-graph.appspot.com',
+    measurementId: 'G-546ZK50GVY',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCXFOCfaY28-zPLEwBQLdUzUvIGnzH8uCI',
-    appId: '1:1020716110002:android:ca3713c21d6d924d1e79ab',
-    messagingSenderId: '1020716110002',
-    projectId: 'store-fd673',
-    databaseURL: 'https://store-fd673-default-rtdb.firebaseio.com',
-    storageBucket: 'store-fd673.appspot.com',
+    apiKey: 'AIzaSyDaWW4s8czfvWWg4hYQ7NG2NvHmbglJrUM',
+    appId: '1:591532309022:android:b5965bbf38865a9bce8c0f',
+    messagingSenderId: '591532309022',
+    projectId: 'nexus-graph',
+    databaseURL: 'https://nexus-graph-default-rtdb.firebaseio.com',
+    storageBucket: 'nexus-graph.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAESCXNEcnAnZr2dusS0tAJDiMs-NzkNaU',
-    appId: '1:1020716110002:ios:94876e5020dfee911e79ab',
-    messagingSenderId: '1020716110002',
-    projectId: 'store-fd673',
-    databaseURL: 'https://store-fd673-default-rtdb.firebaseio.com',
-    storageBucket: 'store-fd673.appspot.com',
+    apiKey: 'AIzaSyB193MCSDjoia3evbAp_YL7sc2_iDV86VM',
+    appId: '1:591532309022:ios:dc068769bd688d52ce8c0f',
+    messagingSenderId: '591532309022',
+    projectId: 'nexus-graph',
+    databaseURL: 'https://nexus-graph-default-rtdb.firebaseio.com',
+    storageBucket: 'nexus-graph.appspot.com',
     iosBundleId: 'com.sixamtech.dellevr',
   );
+
 }
